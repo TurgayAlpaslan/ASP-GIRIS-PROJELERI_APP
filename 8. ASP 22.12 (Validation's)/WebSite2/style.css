@@ -1,0 +1,33 @@
+﻿#ana
+{
+    height:auto;
+    width:800px;
+    margin-top:5px;
+    float:left;
+}
+
+#dogrulama1 
+{
+    background-color:aqua;
+    height:auto;
+    width:800px;
+    float:left;
+}
+
+#dogrulama2
+{
+    background-color:lightskyblue;
+    height:auto;
+    width:800px;
+    float:left;
+    margin-top:10px;
+}
+
+#dogrulama3 
+{
+    background-color:aquamarine;
+    height:auto;
+    width:800px;
+    float:left;
+    margin-top:10px;
+}

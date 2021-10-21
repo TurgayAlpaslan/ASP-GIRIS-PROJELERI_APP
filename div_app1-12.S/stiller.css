@@ -1,0 +1,110 @@
+﻿#ana
+{
+    width:700px;
+    height:auto;
+    /*margin-top:30px;
+    margin-left:auto;
+    margin-right:auto;*/
+    margin:30px auto;
+    
+}
+#logo
+{
+    width:50px;
+    height:50px;
+    float:left;
+  
+}
+#banner
+{
+    /*padding kullanıldığı zaman ne tarafa yatırılmışsa oranını yüksekliğinden veya genişliğindn çıkarılmalıdır.*/
+    width:645px;
+    height:35px;
+    background-color:darkblue;
+    border-radius:5px;
+    float:left;
+    padding-top:20px;
+    text-align:center;
+    color:white;
+    font-weight:700;
+    margin-left:5px;
+}
+#menu
+{
+    width:601px;
+    height:30px;
+    background-color:darkturquoise;
+    float:left;
+}
+#socialmedia
+{
+    width:94px;
+    height:30px;
+    margin-top:5px;
+    margin-left:5px;
+    float:left;
+}
+.social
+{
+    height:28px;
+    width:25px;
+}
+#icerik
+{
+    width:700px;
+    height:200px;
+    background-color:lightblue;
+    float:left;
+    text-align:center;
+    color:white;
+    font-weight:700;
+    margin-top:5px;
+    padding-top:100px;
+    font:800 20px verdana;
+}
+#haber1
+{
+    width:230px;
+    height:200px;
+    background-color:darkslateblue;
+    float:left;
+    margin-top:5px;
+
+}
+#haber2
+{
+    width:230px;
+    height:200px;
+    background-color:darkslateblue;
+    float:left;
+    margin-top:5px;
+    margin-left:5px;
+}
+#haber3
+{
+    width:230px;
+    height:200px;
+    background-color:darkslateblue;
+    float:left;
+    margin-top:5px;
+    margin-left:5px;
+}
+#altbilgi
+{
+    width:700px;
+    height:100px;
+    background-color:powderblue;
+    float:left;
+    margin-top:5px;
+    text-align:center;
+    padding-top:20px;
+    font:700 20px verdana;
+}
+.cell
+{
+    text-align:center;
+    font-family:Verdana;
+    font-size:16px;
+    color:white;
+    font-weight:700;
+}

@@ -1,0 +1,114 @@
+﻿#ana
+{
+width:750px;
+height:auto;
+margin:30px auto;
+
+}
+
+#logo
+{
+    height:50px;
+    width:210px;
+    float:left;
+  
+}
+
+#banner
+{
+    height:39px;
+    width:536px;
+    background-color:peachpuff;
+    border-radius:20px;
+    float:left;
+    padding-left:3px;
+    padding-top:10px;
+    text-align:center;color:black;font-weight:bold;
+}
+#menu
+{
+    height:41px;
+    width:652px;
+    background-color:peru;
+    float:left;
+
+}
+#social
+{
+    float:right;
+    height:85px;
+    width:auto;
+    background-color:khaki;
+    
+}
+#alan
+{
+    background-color:lightgrey;
+    width:auto;
+    height:400px;
+    margin-top:7px;
+
+}
+
+#alt_banner
+{
+    height:210px;
+    width:245px;
+    margin-top:5px;
+    background-color:palegreen;
+    border-radius:15px;
+    float:left;
+    margin-top:7px;
+}
+#alt_banner2
+{
+    height:210px;
+    width:245px;
+    margin-top:5px;
+    background-color:palegreen;
+    border-radius:15px;
+    margin-left:5px;
+    float:left;
+    margin-top:7px;
+}
+#alt_banner3
+{
+    height:210px;
+    width:245px;
+    margin-top:5px;
+    background-color:palegreen;
+    border-radius:15px;
+    margin-left:5px;
+    float:left;
+    margin-top:7px;
+}
+#footer
+{
+    height:150px;
+    width:750px;
+    background-color:peru;
+    float:left;
+    margin-top:7px;
+}
+#div1
+{
+   height:50px;
+   width:50px;
+   float:left;
+
+}
+
+#div2
+{
+   height:50px;
+   width:50px;
+   float:right;
+
+}
+#div3
+{
+   height:50px;
+   width:50px;
+   float:none;
+
+}
